@@ -3,3 +3,5 @@
 - [Developer's Guide Wiki](https://github.com/Mata-Elang-Stable/DevelopersGuide/wiki)
 
 - [List of Port Numbers](https://github.com/Mata-Elang-Stable/DevelopersGuide/wiki/List-of-Port-Numbers)
+- Minimum System Configuration
+- Memory Usage per Service
