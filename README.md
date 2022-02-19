@@ -1,7 +1,7 @@
 # Developer's Guide of Mata Elang Stable
 
-- [Developer's Guide Wiki ](https://github.com/Mata-Elang-Stable/DevelopersGuide/wiki)
-  - [Overview](#overview)
+- [Developer's Guide Wiki ](https://github.com/mata-elang-stable/developersguide/wiki)
+  - [Overview](https://github.com/mata-elang-stable/developersguide/wiki/overview)
     - [Purpose of this Document](https://github.com/Mata-Elang-Stable/DevelopersGuide/wiki/Overview#purpose-of-this-document)
     - [Background](https://github.com/Mata-Elang-Stable/DevelopersGuide/wiki/Overview#background)
     - [Defining the roles of the people involved](https://github.com/Mata-Elang-Stable/DevelopersGuide/wiki/Overview#defining-the-roles-of-the-people-involved)
