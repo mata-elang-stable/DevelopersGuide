@@ -4,7 +4,7 @@
   - [Overview](https://github.com/mata-elang-stable/developersguide/wiki/overview)
     - [Purpose of This Document](https://github.com/mata-elang-stable/developersguide/wiki/overview#purpose-of-this-document)
     - [Background](https://github.com/mata-elang-stable/developersguide/wiki/overview#background)
-    - [Defining the roles of the people involved](https://github.com/mata-elang-stable/developersguide/wiki/overview#mata-elang-community)
+    - [Mata Elang Community](https://github.com/mata-elang-stable/developersguide/wiki/overview#mata-elang-community)
   - [System Overview](#2-system-overview)
     - [System Architecture](https://github.com/Mata-Elang-Stable/DevelopersGuide/wiki/System-Architecture)
     - [System Configuration](#system-configuration)
