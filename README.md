@@ -1,4 +1,4 @@
-# Developer's Guide of Mata Elang Stable
+# Developer's Guide
 
 - [Developer's Guide Wiki ](https://github.com/mata-elang-stable/developersguide/wiki)
   - [Overview](https://github.com/mata-elang-stable/developersguide/wiki/overview)
