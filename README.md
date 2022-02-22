@@ -11,9 +11,9 @@
     - [List of Products](#list-of-products)
     - [List of Port Numbers](#list-of-port-numbers)
     - [Memory Usage per Service](#memory-usage-per-service)
-  - [Development](#3-development)
+  - [Development]
     - [Development Policy](#development-policy)
-    - [Managing Source Code with Git](#managing-source-code-with-git)
+    - [Managing Source Code with Git](https://github.com/mata-elang-stable/developersguide/wiki/managing-source-code-with-git)
     - [Development Procedure](#development-procedure)
       - [Step 1 :](#step-1-)
     - [Testing](#testing)
