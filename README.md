@@ -1,4 +1,4 @@
-# Developer's Guide of Mata Elang Stable
+# Developer's Guide
 
 - [Developer's Guide Wiki ](https://github.com/mata-elang-stable/developersguide/wiki)
   - [Overview](https://github.com/mata-elang-stable/developersguide/wiki/overview)
@@ -11,9 +11,9 @@
     - [List of Products](#list-of-products)
     - [List of Port Numbers](#list-of-port-numbers)
     - [Memory Usage per Service](#memory-usage-per-service)
-  - [Development](#3-development)
+  - Development
     - [Development Policy](#development-policy)
-    - [Managing Source Code with Git](#managing-source-code-with-git)
+    - [Source Code Management with GitHub](https://github.com/mata-elang-stable/developersguide/wiki/source-code-management-with-github)
     - [Development Procedure](#development-procedure)
       - [Step 1 :](#step-1-)
     - [Testing](#testing)
