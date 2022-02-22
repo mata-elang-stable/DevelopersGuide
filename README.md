@@ -13,7 +13,7 @@
     - [Memory Usage per Service](#memory-usage-per-service)
   - Development
     - [Development Policy](#development-policy)
-    - [Managing Source Code with Git](https://github.com/mata-elang-stable/developersguide/wiki/managing-source-code-with-git)
+    - [Source Code Management with GitHub](https://github.com/mata-elang-stable/developersguide/wiki/source-code-management-with-github)
     - [Development Procedure](#development-procedure)
       - [Step 1 :](#step-1-)
     - [Testing](#testing)
