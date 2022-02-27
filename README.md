@@ -10,7 +10,7 @@
     - [System Configuration](#system-configuration)
     - [List of Products](#list-of-products)
     - [List of Port Numbers](#list-of-port-numbers)
-    - [Memory Usage per Service](#memory-usage-per-service)
+    - [Memory Usage per Service](https://github.com/mata-elang-stable/developersguide/wiki/memory-usage-per-service)
   - Development
     - [Development Policy](#development-policy)
     - [Source Code Management with GitHub](https://github.com/mata-elang-stable/developersguide/wiki/source-code-management-with-github)
