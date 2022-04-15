@@ -11,7 +11,6 @@
     - [List of Products](https://github.com/mata-elang-stable/developersguide/wiki/list-of-products)
     - [List of Port Numbers](https://github.com/mata-elang-stable/developersguide/wiki/list-of-port-numbers)   
     - [Memory Usage per Service](https://github.com/mata-elang-stable/developersguide/wiki/Memory-Usage-per-Service)  
-    - [System Architecture](https://github.com/Mata-Elang-Stable/DevelopersGuide/wiki/System-Architecture)
   - Development
     - [Development Policy](#development-policy)
     - [Source Code Management with GitHub](https://github.com/mata-elang-stable/developersguide/wiki/source-code-management-with-github)
